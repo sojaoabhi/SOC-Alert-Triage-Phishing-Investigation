@@ -1,0 +1,10 @@
+case,type,value,role
+8815,email,urgents@amazon.biz,suspicious sender
+8815,url,http://bit.ly/3sHkX3da12340,phishing URL
+8815,ip,67.199.248.11,destination IP
+8815,ip,10.20.2.17,affected source IP
+8815,email,h.harris@thetrydaily.thm,affected recipient
+8816,url,https://microsoftsupport.co/login,phishing login URL
+8816,email,no-reply@microsoftsupport.co,suspicious sender
+8816,ip,102.89.222.143,IP referenced in email
+8816,email,c.allen@thetrydaily.thm,affected recipient
