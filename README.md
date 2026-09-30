@@ -353,6 +353,7 @@ Incident Response Fundamentals
 SOC-Alert-Triage-Phishing-Investigation/
 │
 ├── README.md
+├── LICENSE
 │
 ├── reports/
 │   └── SOC-Alert-Triage-Phishing-Investigation-Report.pdf
